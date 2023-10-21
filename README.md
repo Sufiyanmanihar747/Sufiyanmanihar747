@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyanmanihar747&label=Profile%20views&color=0e75b6&style=flat" alt="sufiyanmanihar747" /> </p>
 
-- 🌱 I’m currently learning **PHP, Bootstrap**
+- 🌱 I’m currently learning **PHP, Bootstrap,Laravel**
 
 - 👨‍💻 All of my projects are available at [https://sufiyan-manihar-portfolio.netlify.app](https://sufiyan-manihar-portfolio.netlify.app)
 
-- 💬 Ask me about **PHP, Frontend**
+- 💬 Ask me about **PHP, Frontend,Laravel**
 
 - 📫 How to reach me **sufiyanmanihar52@gmail.com**
 
